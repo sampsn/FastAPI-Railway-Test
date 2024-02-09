@@ -15,7 +15,7 @@ This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 ## ✨ Features
 
 - FastAPI
-- [Hypercorn](https://hypercorn.readthedocs.io/)
+- [Uvicorn](https://www.uvicorn.org/)
 - Python 3
 
 ## 💁‍♀️ How to use
