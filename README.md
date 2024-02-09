@@ -26,4 +26,4 @@ This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 ## 📝 Notes
 
 - To learn about how to use FastAPI with most of its features, you can visit the [FastAPI Documentation](https://fastapi.tiangolo.com/tutorial/)
-- To learn about Hypercorn and how to configure it, read their [Documentation](https://hypercorn.readthedocs.io/)
+- To learn about Uvicorn and how to configure it, read their [Documentation](https://uvicorn.org/)
